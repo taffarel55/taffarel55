@@ -1,4 +1,4 @@
-[![Header](image.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![Animation](animation.gif)
 
 ##### Hi, I'm Mauricio (Ver se bota isso pra mudar):
 
