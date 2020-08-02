@@ -1,4 +1,4 @@
-![Animation](animation.gif)
+![Animation](https://raw.githubusercontent.com/taffarel55/taffarel55/master/animation.gif)
 
 ##### Hi, I'm Mauricio (Ver se bota isso pra mudar):
 
