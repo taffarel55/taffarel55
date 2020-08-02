@@ -1,6 +1,6 @@
 ![Animation](https://raw.githubusercontent.com/taffarel55/taffarel55/master/animation.gif)
 
-##### Hi, I'm Mauricio (Ver se bota isso pra mudar):
+##### Hi, I'm Mauricio Taffarel:
 
 - :mortar_board: Electrical engineering student at Federal University of Bahia
 - :interrobang: Eternal questioner and knowledge seeker
