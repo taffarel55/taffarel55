@@ -13,11 +13,9 @@
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taffarel55)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MauricioTaffarel)
 [![maurciotaffarel.tech](https://img.shields.io/badge/-WEBSITE-000000?style=for-the-badge&logo=html5&logoColor=white)](https://www.mauriciotaffarel.tech/)
-![Visits Badge](https://badges.pufler.dev/visits/taffarel55/taffarel55?style=for-the-badge) 
 
 <details open>
- <summary> :heart_eyes: <b>My skills and knowledge</b>: </summary>
-<br>
+ <summary>:heart_eyes: <b>My skills and knowledge</b>: </summary>
 
 ##### Languages I have used
 
@@ -52,7 +50,7 @@
 </details>
 
 <details> 
- <summary> :stuck_out_tongue_winking_eye: <b>Fun: KEEP CALM AND</b>: </summary>
+ <summary>:stuck_out_tongue_winking_eye: <b>Fun: KEEP CALM AND</b></summary>
 <br>
 
 ```c++
