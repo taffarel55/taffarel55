@@ -15,6 +15,10 @@
 [![maurciotaffarel.tech](https://img.shields.io/badge/-WEBSITE-000000?style=for-the-badge&logo=html5&logoColor=white)](https://www.mauriciotaffarel.tech/)
 ![Visits Badge](https://badges.pufler.dev/visits/taffarel55/taffarel55?style=for-the-badge) 
 
+<details open>
+ <summary> :heart_eyes: <b>My skills and knowledge</b>: </summary>
+<br>
+
 ##### Languages I have used
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
@@ -45,7 +49,11 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
-##### Fun: KEEP CALM AND...
+</details>
+
+<details> 
+ <summary> :stuck_out_tongue_winking_eye: <b>Fun: KEEP CALM AND</b>: </summary>
+<br>
 
 ```c++
 void setup() {
@@ -67,5 +75,7 @@ void loop() {
     PORTB = 0x4E;
 }
 ```
+
+</details>
 
 ##### :floppy_disk: EOF
