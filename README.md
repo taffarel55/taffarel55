@@ -25,12 +25,10 @@
 </center>
 
 ```tsx
-import React from 'react';
+import React from "react";
 
 const Profile = () => {
-  return (
-    <h3>A passionate developer from Brazil!</h3>
-  );
+  return <h3>A passionate developer from Brazil!</h3>;
 };
 
 export default Profile;
@@ -49,10 +47,10 @@ export default Profile;
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
 
-<!-- 
+<!--
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 -->
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
@@ -66,12 +64,6 @@ export default Profile;
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/taffarel55/2048.py/issues/2) in [taffarel55/2048.py](https://github.com/taffarel55/2048.py)
-2. 🎉 Merged PR [#1](https://github.com/taffarel55/2048.py/pull/1) in [taffarel55/2048.py](https://github.com/taffarel55/2048.py)
-3. 💪 Opened PR [#1](https://github.com/taffarel55/2048.py/pull/1) in [taffarel55/2048.py](https://github.com/taffarel55/2048.py)
-4. 🗣 Commented on [#195](https://github.com/Calysto/octave_kernel/issues/195) in [Calysto/octave_kernel](https://github.com/Calysto/octave_kernel)
-5. 🎉 Merged PR [#5](https://github.com/PETEletricaUFBA/peteletricaufba.github.io/pull/5) in [PETEletricaUFBA/peteletricaufba.github.io](https://github.com/PETEletricaUFBA/peteletricaufba.github.io)
-<!--END_SECTION:activity-->
 
 </details>
 
