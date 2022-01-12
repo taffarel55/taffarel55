@@ -1,3 +1,7 @@
-<!--START_SECTION:activity-->
+Atividade Recente
 
-Teste
+<details> 
+ <summary>:timer_clock: <b>Recent Github Activity</b></summary>
+<br>
+<!--START_SECTION:activity-->
+</details>
