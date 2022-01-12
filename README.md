@@ -8,6 +8,4 @@
  <summary>:timer_clock: <b>Recent Github Activity</b></summary>
 <br>
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 </details>
