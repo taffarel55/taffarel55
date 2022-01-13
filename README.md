@@ -18,19 +18,6 @@
 [![Instagram](https://img.shields.io/badge/insta-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taffarel55)
 [![Site](https://img.shields.io/badge/site-10B420.svg?style=for-the-badge&logo=github)](https://taffarel55.github.io)
 
-<a href="https://mailhide.io/e/oG66zHuS" target="_blank">
-    <img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/mauricio-taffarel-b66926127/" target="_blank">
-    <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/taffarel55">
-    <img src="https://img.shields.io/badge/insta-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://taffarel55.github.io">
-    <img src="https://img.shields.io/badge/site-10B420.svg?style=for-the-badge&logo=github" alt="Site">
-</a>
-
 ---
 
 </center>
