@@ -20,25 +20,32 @@
 
 </center>
 
-<img align='left' height='120' style="margin-right:10px" src='assets/firmware.svg' alt='Mudar imagem'>
+<img align='left' height='220' style="margin-right:20px" src='assets/firmware.svg' alt='Mudar imagem'>
 
 ```tsx
 import React from "react";
 
 const Profile = () => {
-  return <h3>A passionate developer from Brazil!</h3>;
+  return {
+      name: "Maurício",
+      nick: "taffarel55",
+      gender: "Male"
+      hobbies: ["Animes", "Music"],
+  }
 };
 
 export default Profile;
 ```
 
-<img align='right' height='120' style="margin-left:10px" src='assets/programming.svg' alt='Mudar imagem'>
+<img align='right' height='170' style="margin-left:20px" src='assets/programming.svg' alt='Mudar imagem'>
 
 ```tsx
 (function repeat() {
   eat();
   sleep();
   code();
+  learn();
+  make();
   repeat();
 })();
 ```
