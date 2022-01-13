@@ -104,5 +104,5 @@ export default Profile;
 <br>
 
 <h3 align="center">
-	⬇ Check my pinned projects below and leave a ⭐️⬇
+	⬇ Check my pinned projects below and leave a ⭐️ ⬇
 </h3>
