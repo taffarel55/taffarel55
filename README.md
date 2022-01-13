@@ -102,7 +102,6 @@ export default Profile;
 <!--END_SECTION:activity-->
 
 <br>
-<br>
 
 <h3 align="center">
 	⬇ Check my pinned projects below and leave a ⭐️⬇
