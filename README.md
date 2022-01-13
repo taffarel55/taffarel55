@@ -1,12 +1,8 @@
 <h1 align="center">Greetings!!! I'm Maurício Taffarel 🇧🇷</h1>
 
-<h1 align="center">
+<div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23144FFF&lines=Hi+there!+I'm+Maur%C3%ADcio+Taffarel+%F0%9F%87%A7%F0%9F%87%B7%E2%A0%80%E2%A0%80%E2%A0%80;I'm+an+engineering+student;I'm+a+maker;I'm+a+pirate;Checkout+my+profile+below)](https://git.io/typing-svg)
-
-</h1>
-
-<img align='right' width='174' height='190' src='assets/certificate.svg' alt='Mudar imagem'>
+<img align='right' height='120' src='assets/certificate.svg' alt='Mudar imagem'>
 <!-- https://undraw.co/illustrations -->
 <!-- https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png -->
 
@@ -23,9 +19,9 @@
 [![Instagram](https://img.shields.io/badge/insta-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taffarel55)
 [![maurciotaffarel.tech](https://img.shields.io/badge/-SITE-000000?style=for-the-badge&logo=html5&logoColor=white)](https://taffarel55.github.io/)
 
-<img align='left' width='174' height='190' src='assets/firmware.svg' alt='Mudar imagem'>
-
 </center>
+
+<img align='left' height='120' style="margin-right:10px" src='assets/firmware.svg' alt='Mudar imagem'>
 
 ```tsx
 import React from "react";
@@ -36,6 +32,19 @@ const Profile = () => {
 
 export default Profile;
 ```
+
+<img align='right' height='120' style="margin-left:10px" src='assets/programming.svg' alt='Mudar imagem'>
+
+```tsx
+(function repeat() {
+    eat();
+    sleep();
+    code();
+    repeat();
+})();
+```
+
+</div>
 
 **Technologies:**
 
@@ -74,17 +83,13 @@ export default Profile;
 
 [![Spotify](https://novatorem-taffarel55.vercel.app/api/spotify/?background_color=00000000&border_color=00000000)](https://open.spotify.com/user/12148677565)
 
-<details> 
- <summary>:timer_clock: <b>Recent Github Activity</b></summary>
-<br>
+### Recent Github Activity :timer_clock:
 
 <!--START_SECTION:activity-->
-
-</details>
 
 <br>
 <br>
 
 <h3 align="center">
-	⬇⬇ Check my pinned projects below and leave a ⭐️⬇⬇
+	⬇ Check my pinned projects below and leave a ⭐️⬇
 </h3>
