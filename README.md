@@ -6,10 +6,10 @@
 
 </h1>
 
-<img align='right' width='174' height='190' src='https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png' alt='Mudar imagem'>
+<img align='right' width='174' height='190' src='assets/certificate.svg' alt='Mudar imagem'>
 <!-- https://undraw.co/illustrations -->
+<!-- https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png -->
 
-### About me:
 
 - :mortar_board: Electrical engineering student at Federal University of Bahia
 - :interrobang: Eternal questioner and knowledge seeker
@@ -20,8 +20,10 @@
 
 [![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/oG66zHuS)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-taffarel-b66926127/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taffarel55)
-[![maurciotaffarel.tech](https://img.shields.io/badge/-WEBSITE-000000?style=for-the-badge&logo=&logoColor=white)](https://taffarel55.github.io/)
+[![Instagram](https://img.shields.io/badge/insta-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taffarel55)
+[![maurciotaffarel.tech](https://img.shields.io/badge/-SITE-000000?style=for-the-badge&logo=html5&logoColor=white)](https://taffarel55.github.io/)
+
+<img align='left' width='174' height='190' src='assets/firmware.svg' alt='Mudar imagem'>
 
 </center>
 
