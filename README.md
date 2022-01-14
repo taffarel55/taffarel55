@@ -94,7 +94,7 @@ export default Profile;
 ### Recent Github Activity :timer_clock:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#661](https://github.com/OsProgramadores/op-website-hugo/pull/661) in [OsProgramadores/op-website-hugo](https://github.com/OsProgramadores/op-website-hugo)
+1. 💪 Opened PR [#1](https://github.com/CoutoLucas/Estudos/pull/1) in [CoutoLucas/Estudos](https://github.com/CoutoLucas/Estudos)
 2. ❗️ Opened issue [#2](https://github.com/taffarel55/2048.py/issues/2) in [taffarel55/2048.py](https://github.com/taffarel55/2048.py)
 3. 🎉 Merged PR [#1](https://github.com/taffarel55/2048.py/pull/1) in [taffarel55/2048.py](https://github.com/taffarel55/2048.py)
 4. 💪 Opened PR [#1](https://github.com/taffarel55/2048.py/pull/1) in [taffarel55/2048.py](https://github.com/taffarel55/2048.py)
