@@ -91,9 +91,10 @@ export default Profile;
 
 [![Spotify](https://novatorem-taffarel55.vercel.app/api/spotify/?background_color=00000000&border_color=00000000)](https://open.spotify.com/user/12148677565)
 
+<!--
 ### Recent Github Activity :timer_clock:
 
-<!--START_SECTION:activity-->
+START_SECTION:activity-->
 
 <br>
 
