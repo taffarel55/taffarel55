@@ -14,7 +14,7 @@
 <center>
 
 [![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/oG66zHuS)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-taffarel-b66926127/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mauriciotaffarel)
 [![Instagram](https://img.shields.io/badge/insta-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taffarel55)
 [![Site](https://img.shields.io/badge/site-10B420.svg?style=for-the-badge&logo=github)](https://taffarel55.github.io)
 
