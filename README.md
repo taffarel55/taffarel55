@@ -54,7 +54,7 @@ export default Profile;
 
 </div>
 
-**Technologies/Tools:**
+**Technologies/Tools I've used:**
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github)
@@ -105,11 +105,15 @@ export default Profile;
 ![Overleaf](https://img.shields.io/badge/-Overleaf-000?&logo=Overleaf)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&logoColor=7B42BC)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
+![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible&logoColor=EE0000)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=grafana)
+![InfluxDB](https://img.shields.io/badge/-InfluxDB-000?&logo=influxdb)
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=gnubash)
 ![tmux](https://img.shields.io/badge/-tmux-000?&logo=tmux)
 ![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello&logoColor=0052CC)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=grafana)
-![InfluxDB](https://img.shields.io/badge/-InfluxDB-000?&logo=influxdb)
 ![AWS Amplify](https://img.shields.io/badge/-Amplify-000?&logo=awsamplify)
 ![Espressif](https://img.shields.io/badge/-ESP32-000?&logo=espressif)
 ![Node-RED](https://img.shields.io/badge/-NodeRED-000?&logo=nodered&logoColor=8F0000)
