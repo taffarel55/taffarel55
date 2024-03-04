@@ -6,7 +6,8 @@
 <!-- https://undraw.co/illustrations -->
 <!-- https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png -->
 
-- :mortar_board: Electrical engineering student at Federal University of Bahia
+- :mortar_board: Aeronautical engineering student
+- ⚡ Electrical engineering 
 - :interrobang: Eternal questioner and knowledge seeker
 - :blue_book: Passionate about learning new languages
 - :mailbox: You can reach me with the links below
